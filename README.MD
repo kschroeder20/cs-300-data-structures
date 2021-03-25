@@ -17,3 +17,5 @@ _How has your work on this project expanded your approach to designing software 
 Yes, it has made me more thorough in my approach. This is my first experience with going line by line to determine a runtime analysis and I saw how beneficial that was for the end product.
 
 _How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable_
+
+My work has resulted in me taking scalability into consideration much more than I used to. I also expanded my ability to use different data structures to maximize their advantages and learned how to write more effective and clear psuedocode to guide my code.
